@@ -29,6 +29,6 @@
 </div>
 
 ## Stats!
-<img src="https://github-readme-stats.vercel.app/api?username=Jessie-Baron&show_icons=true&theme=tokyonight" width="480" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jessie-Baron&layout=compact&theme=tokyonight" width="400"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Jessie-Baron&show_icons=true&theme=tokyonight" width="380" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jessie-Baron&layout=compact&theme=tokyonight" width="300"/>
 
 
