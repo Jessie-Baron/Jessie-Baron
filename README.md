@@ -31,4 +31,8 @@
 ## Stats!
 <img src="https://github-readme-stats.vercel.app/api?username=Jessie-Baron&show_icons=true&theme=tokyonight" width="380" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jessie-Baron&layout=compact&theme=tokyonight" width="318"/>
 
+## Let's Connect!
+<div>
+<img href="https://twitter.com/CapnJessieBaron" src="https://cliply.co/wp-content/uploads/2019/07/371907030_TWITTER_ICON_400px.gif" alt="drawing" height="100" width="100"/> <img src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_400px.gif" alt="drawing" width="100" height="100"/> 
+</div>
 
