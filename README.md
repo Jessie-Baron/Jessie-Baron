@@ -29,6 +29,6 @@
 </div>
 
 ## Stats!
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jessie-Baron&show_icons=true&theme=tokyonight) <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jessie-Baron&layout=compact&theme=tokyonight" height="195"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Jessie-Baron&show_icons=true&theme=tokyonight" width="480" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jessie-Baron&layout=compact&theme=tokyonight" width="400"/>
 
 
