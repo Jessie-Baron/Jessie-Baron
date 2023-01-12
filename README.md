@@ -29,7 +29,11 @@
 </div>
 
 ## Stats!
+<div align="center">
+  
 [![GitHub Streak](https://streak-stats.demolab.com?user=Jessie-Baron&theme=blue-green)](https://git.io/streak-stats)
+  
+</div>
 
 ## Let's Connect!
 <div>
