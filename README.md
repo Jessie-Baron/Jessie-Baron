@@ -33,6 +33,6 @@
 
 ## Let's Connect!
 <div>
-<img href="https://twitter.com/CapnJessieBaron" src="https://cliply.co/wp-content/uploads/2019/07/371907030_TWITTER_ICON_400px.gif" alt="drawing" height="100" width="100"/> <img src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_400px.gif" alt="drawing" width="100" height="100"/> 
+<a href="https://twitter.com/CapnJessieBaron"><img src="https://cliply.co/wp-content/uploads/2019/07/371907030_TWITTER_ICON_400px.gif" alt="drawing" height="100" width="100"/></a> <a href="https://www.linkedin.com/in/jessie-baron/"><img src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_400px.gif" alt="drawing" width="100" height="100"/></a>
 </div>
 
