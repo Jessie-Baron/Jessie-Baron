@@ -18,12 +18,12 @@
 <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2021/06/08-16-43-46-1200px-ISO_C%2B%2B_Logo.svg.png" alt="drawing" width="50"/> <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2021/06/08-18-46-22-Bootstrap_logo.svg.png" alt="drawing" height="50" width="50"/> 
 </div>
 
-## Frameworks I Know!
+## Technologies I Know!
 <div>
 <img src="https://media0.giphy.com/media/RJzm826vu7WbJvBtxX/giphy.gif?cid=6c09b952526b76734ce75c5c75a54aa11ef17afa17335f36&rid=giphy.gif&ct=s" alt="drawing" width="50"/> <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="drawing" width="50"/> <img src="https://e7.pngegg.com/pngimages/654/56/png-clipart-flask-web-framework-python-software-framework-jinja-flask-miscellaneous-monochrome.png" alt="drawing" width="50" height="50"/> <img src="https://w7.pngwing.com/pngs/934/398/png-transparent-js-node-logos-and-brands-line-filled-icon-thumbnail.png" alt="drawing" width="50" height="50"/> <img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" alt="drawing" width="50" height="50"/> <img src="https://alphaville.github.io/optimization-engine/img/docker.gif" alt="drawing" width="50" height="50"/>
 </div>
 
-## Frameworks I'm Learning!
+## Technologies I'm Learning!
 <div>
 <img src="https://media2.giphy.com/media/XEDIHHp3i8bVoEdxd7/giphy.gif?cid=790b76113cd329fcdafb70c34537e1f1ccb01525114b22d0&rid=giphy.gif&ct=s" alt="drawing" width="50"/>
 </div>
